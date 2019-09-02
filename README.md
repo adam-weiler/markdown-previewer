@@ -1,5 +1,5 @@
 # Random Quote Machine
-The Front End Libraries - Markdown Previewer project for FCC.
+The Front End Libraries - Markdown Previewer project for freeCodeCamp.
 
 ## Requirements
 **User Story #1:** I can see a `textarea` element with a corresponding `id="editor"`.
